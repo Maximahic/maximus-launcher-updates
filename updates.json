@@ -1,6 +1,13 @@
 {
-  "latest_version": "1.0",
-  "download_url": "",
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/Maximahic/maximus-launcher-updates/releases/download/v1.0.0/Maximus_Launcher.exe",
   "updates": [],
-  "announcements": []
+  "announcements": [
+    {
+      "id": "welcome",
+      "title": "Добро пожаловать!",
+      "message": "Спасибо, что установил Maximus Launcher!",
+      "priority": "normal"
+    }
+  ]
 }
