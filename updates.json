@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.1",
   "download_url": "https://github.com/Maximahic/maximus-launcher-updates/releases/download/v1.0.2/Maximus_Launcher_v1.0.2.exe",
-  "sha256": "СЮДА_ХЕШ_НОВОГО_EXE",
+  "sha256": "BD6F889418CF7F7F54EC0B2721A6F327556EAF4C9396C0217C074781214EABCF",
   "updates": [
     {
       "id": "update-1.0.1",
